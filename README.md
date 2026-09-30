@@ -1,2 +1,2 @@
 # Scripted-Essentials-docs
-A public, client made, documentation of the minecraft plugin "Scripted Essentials"
+A public, client-made documentation of the Minecraft plugin "Scripted Essentials"
